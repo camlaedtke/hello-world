@@ -3,4 +3,4 @@
 
 Hello!
 
-I'm learning how to use github, so this is the README file for a sample repo I made. Pretty cool!
+I'm learning how to use github, so this is the README.md file for a sample repo I made. Pretty neat stuff!
